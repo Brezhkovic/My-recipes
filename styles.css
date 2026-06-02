@@ -2,3 +2,42 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.hero {
+    background-color: #2E2520;
+    color: #FDFBF7;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 0 40px;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 40px;
+}
+
+.hero_description {
+    font-size: 20px;
+    margin: 0;
+}
+
+.hero_image img {
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+    border-radius: 8px;
+}
+
+.hero_text {
+    display: flex;
+    flex-direction: column;
+}

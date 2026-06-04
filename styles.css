@@ -68,6 +68,13 @@ h1 {
     transition: transform 0.3s ease;
 }
 
+.card_link {
+    flex: 1;
+    min-width: 250px;
+    font-size: 26px;
+    text-decoration: none;
+}
+
 .card:hover {
     transform: translateY(-8px); 
 }

@@ -55,6 +55,7 @@ h1 {
     justify-content: space-between;
     gap: 20px;
     padding-top: 40px;
+    flex-wrap: wrap;
 }
 
 .card {
@@ -62,6 +63,11 @@ h1 {
     min-width: 250px;
     font-size: 26px;
     font-family: 'Cormorant Garamond', Georgia, serif;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px); 
 }
 
 .card img {

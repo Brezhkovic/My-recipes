@@ -1,3 +1,5 @@
+/* Загальні стилі */
+
 body {
     margin: 0;
     padding: 0;
@@ -82,4 +84,61 @@ h1 {
     font-weight: bold;
     color: #2E2520;
     margin-top: 10px;
+}
+
+.container-footer {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer {
+    background-color: #2E2520;
+    margin: 0;
+}
+
+.container-footer p {
+    margin: 0;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    color: #FDFBF7;
+}
+
+/* Стилі розділів */
+
+.section_header_container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 10px auto;
+    display: flex;
+    gap: 80px;
+    align-items: center;
+}
+
+.section_name {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.section_header {
+    background-color: #2E2520;
+    color: #FDFBF7;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    padding: 10px 40px;
+}
+
+.my_recipe a {
+    margin: 0;
+    text-decoration: none;
+    color: #FDFBF7;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.section_name a {
+    color: #FDFBF7;
 }

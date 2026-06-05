@@ -9,3 +9,4 @@ Images:
 Фото до розділу "Основні страви": Emily Andreeva (https://unsplash.com/@emiandreeva) — (https://unsplash.com/photos/stainless-steel-fork-on-black-ceramic-plate-mjJ9VZFFe5o)
 Фото до розділу "Десерти": Snappr (https://unsplash.com/@snappr) — Blueberry Cheesecake (https://unsplash.com/photos/a-piece-of-cheesecake-with-berries-and-ice-cream-arn55JxShfQ)
 Favicon — https://www.flaticon.com/free-icon/bake_2917633?term=cooking&related_id=2917633
+Фото до розділу з гомбовцями: Nick Cheng (https://unsplash.com/@man_junn) — (https://unsplash.com/photos/brown-bread-on-stainless-steel-tray-21zv5xvMA8o)

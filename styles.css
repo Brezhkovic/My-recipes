@@ -214,6 +214,7 @@ body {
 .ingredients {
     border: 1px solid #E0D8CC;
     border-radius: 8px; 
+    min-width: 300px;
 }
 
 .ingr_list {

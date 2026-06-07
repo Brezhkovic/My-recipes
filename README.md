@@ -10,3 +10,6 @@ Images:
 Фото до розділу "Десерти": Snappr (https://unsplash.com/@snappr) — Blueberry Cheesecake (https://unsplash.com/photos/a-piece-of-cheesecake-with-berries-and-ice-cream-arn55JxShfQ)
 Favicon — https://www.flaticon.com/free-icon/baking_1973791?term=cooking&page=1&position=27&origin=tag&related_id=1973791
 Фото до розділу з гомбовцями: Nick Cheng (https://unsplash.com/@man_junn) — (https://unsplash.com/photos/brown-bread-on-stainless-steel-tray-21zv5xvMA8o)
+Фото налисників: Yevgen Tarasov (https://unsplash.com/@tstudio) — (https://unsplash.com/photos/brown-food-on-white-ceramic-plate-bPx_jdPH8ac)
+Котлети на сторінці з основними стравами: Valeria Boltneva (https://www.pexels.com/ru-ru/@valeriya/) — (https://www.pexels.com/ru-ru/photo/29653148/)
+Пельмені на сторінці з основними стравами: Polina Tankilevitch (https://www.pexels.com/ru-ru/@polina-tankilevitch/) — (https://www.pexels.com/ru-ru/photo/8601687/)

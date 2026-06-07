@@ -104,6 +104,7 @@ body {
 .footer {
     background-color: #2E2520;
     margin: 0;
+    padding: 15px;
 }
 
 .container-footer p {
@@ -238,4 +239,11 @@ body {
 ol li {
     margin-bottom: 20px;
     list-style-type: circle;
+}
+
+.container-footer a {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    color: #FDFBF7;
+    text-decoration: none;
+    font-size: 22px;
 }

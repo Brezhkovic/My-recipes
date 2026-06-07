@@ -252,6 +252,18 @@ ol li {
 }
 
 @media (max-width: 768px) {
+    
+    .hero_text {
+        align-items: center;    
+        width: 100%;            
+    }
+
+    .hero_description {
+        font-size: 20px;
+        word-break: break-word;
+        white-space: normal;    
+        text-align: center;
+    }
 
     .container {
         flex-direction: column;

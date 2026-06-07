@@ -191,3 +191,39 @@ body {
   border-top: 1px solid #E0D8CC;
   margin: 0 36px;
 }
+
+.ingr_cooking {
+    background-color: #FAF6F0;
+}
+.ingr_cooking_container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;  
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex; 
+    justify-content: space-between;
+}
+
+.ingredients {
+    border: 1px solid #E0D8CC;
+    border-radius: 8px; 
+}
+
+.ingr_list {
+    display: flex;
+    margin: 0 36px;
+    justify-content: space-between;
+    font-family: 'DM Sans', sans-serif;
+    color: #2E2520;
+    font-size: 14px;
+    gap: 40px;
+
+}
+
+.ingr {
+    margin: 15px 36px;
+    font-family: 'Cormorant Garamond', serif;
+    color: #2E2520;
+    font-size: 26px;
+}

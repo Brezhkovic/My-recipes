@@ -263,12 +263,18 @@ ol li {
         font-size: 36px;
     }
 
+    .hero {
+        overflow: hidden;
+    }
+
     .hero_description {
         font-size: 20px;
+        word-break: break-word;
     }
 
     .hero_image img {
         max-width: 100%;
+        width: 100%;
     }
 
     .container-cards {

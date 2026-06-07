@@ -201,6 +201,8 @@ body {
     margin: 0 auto;  
     padding-top: 40px;
     padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
     display: flex; 
     justify-content: space-between;
 }
@@ -226,4 +228,14 @@ body {
     font-family: 'Cormorant Garamond', serif;
     color: #2E2520;
     font-size: 26px;
+}
+
+.cooking_process {
+    font-family: 'DM Sans', sans-serif;
+    color: #2E2520;
+}
+
+ol li {
+    margin-bottom: 20px;
+    list-style-type: circle;
 }

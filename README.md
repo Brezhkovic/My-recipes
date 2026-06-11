@@ -4,12 +4,27 @@ Repository for my recipes webpage
 
 Images:
 
+Фото на головній сторінці:
+
 Фото кухні на головній сторінці: Clay Banks (https://unsplash.com/@claybanks) — Cabin Kitchen (https://unsplash.com/photos/modern-kitchen-with-a-view-of-a-forest-C86plNQ9wLk)
 Фото до розділу "Сніданки": Joshua Ryder (https://unsplash.com/@photos_by_ryder) — (https://unsplash.com/photos/brown-and-red-strawberry-cake-on-white-ceramic-plate-y4K7Ydp2z3Y)
 Фото до розділу "Основні страви": Emily Andreeva (https://unsplash.com/@emiandreeva) — (https://unsplash.com/photos/stainless-steel-fork-on-black-ceramic-plate-mjJ9VZFFe5o)
 Фото до розділу "Десерти": Snappr (https://unsplash.com/@snappr) — Blueberry Cheesecake (https://unsplash.com/photos/a-piece-of-cheesecake-with-berries-and-ice-cream-arn55JxShfQ)
 Favicon — https://www.flaticon.com/free-icon/baking_1973791?term=cooking&page=1&position=27&origin=tag&related_id=1973791
-Фото до розділу з гомбовцями: Nick Cheng (https://unsplash.com/@man_junn) — (https://unsplash.com/photos/brown-bread-on-stainless-steel-tray-21zv5xvMA8o)
-Фото налисників: Yevgen Tarasov (https://unsplash.com/@tstudio) — (https://unsplash.com/photos/brown-food-on-white-ceramic-plate-bPx_jdPH8ac)
-Котлети на сторінці з основними стравами: Valeria Boltneva (https://www.pexels.com/ru-ru/@valeriya/) — (https://www.pexels.com/ru-ru/photo/29653148/)
-Пельмені на сторінці з основними стравами: Polina Tankilevitch (https://www.pexels.com/ru-ru/@polina-tankilevitch/) — (https://www.pexels.com/ru-ru/photo/8601687/)
+
+Фото в розділі "Сніданки":
+
+Фото сирників — Valeria Boltneva (https://www.pexels.com/ru-ru/@valeriya/) — (https://www.pexels.com/ru-ru/photo/36612305/)
+Фото налисників — Husien Bisky (https://www.pexels.com/ru-ru/@husien-bisky-620750755/) — (https://www.pexels.com/ru-ru/photo/37417620/)
+Фото гомбовців — (https://fakty.ua/420113-vkusnyj-desert-ukrainskoj-kuhni-kak-prigotovit-gombovcy-muzhchinam-video)
+
+Фото в розділі "Основні страви":
+
+Фото котлет — Valeria Boltneva (https://www.pexels.com/ru-ru/@valeriya/) — (https://www.pexels.com/ru-ru/photo/29653148/)
+Фото пельменів —
+
+Фото на сторінках з рецептами:
+
+Сирники — Dmitriy Ganin (https://www.pexels.com/ru-ru/@ganinph/) — (https://www.pexels.com/ru-ru/photo/10805989/)
+Налисники — Unaizat Abdulgamidova (https://www.pexels.com/ru-ru/@unaizat97/) — (https://www.pexels.com/ru-ru/photo/12412867/)
+Котлети — Valeria Boltneva (https://www.pexels.com/ru-ru/@valeriya/) — https://www.pexels.com/ru-ru/photo/20184732/

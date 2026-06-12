@@ -238,6 +238,8 @@ body {
 .cooking_process {
     font-family: 'DM Sans', sans-serif;
     color: #2E2520;
+    flex: 1;
+    padding-left: 40px;
 }
 
 ol li {

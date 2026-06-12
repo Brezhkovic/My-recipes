@@ -23,6 +23,10 @@ Favicon — https://www.flaticon.com/free-icon/baking_1973791?term=cooking&page=
 Фото котлет — Valeria Boltneva (https://www.pexels.com/ru-ru/@valeriya/) — (https://www.pexels.com/ru-ru/photo/29653148/)
 Фото пельменів —
 
+Фото в розділі "Десерти":
+
+Фото мармурового печива — American Heritage Chocolate (https://unsplash.com/@americanheritagechocolate) — (https://unsplash.com/photos/brown-cookies-on-blue-and-white-ceramic-plate-DoK5qEy2L60)
+
 Фото на сторінках з рецептами:
 
 Сирники — Dmitriy Ganin (https://www.pexels.com/ru-ru/@ganinph/) — (https://www.pexels.com/ru-ru/photo/10805989/)

@@ -36,3 +36,4 @@ Favicon — https://www.flaticon.com/free-icon/baking_1973791?term=cooking&page=
 Котлети — Valeria Boltneva (https://www.pexels.com/ru-ru/@valeriya/) — https://www.pexels.com/ru-ru/photo/20184732/
 Мармурове печиво — Asya Birinci (https://www.pexels.com/ru-ru/@asyabirinci/) — (https://www.pexels.com/ru-ru/photo/36227016/)
 Пиріг з яблуками — Mathias Reding (https://www.pexels.com/ru-ru/@matreding/) — (https://www.pexels.com/ru-ru/photo/apple-5483815/)
+Апельсиновий кекс — Esraa Abuhashem (https://www.pexels.com/ru-ru/@esraa-abuhashem-259736/) — (https://www.pexels.com/ru-ru/photo/10106887/)

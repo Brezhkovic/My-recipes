@@ -170,6 +170,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 40px;
+    gap: 20px;
 }
 
 .recipe_img img {

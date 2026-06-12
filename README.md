@@ -26,6 +26,8 @@ Favicon — https://www.flaticon.com/free-icon/baking_1973791?term=cooking&page=
 Фото в розділі "Десерти":
 
 Фото мармурового печива — American Heritage Chocolate (https://unsplash.com/@americanheritagechocolate) — (https://unsplash.com/photos/brown-cookies-on-blue-and-white-ceramic-plate-DoK5qEy2L60)
+Фото яблучного пирога — Diliara Garifullina (https://unsplash.com/@dilja96) — (https://unsplash.com/photos/plate-of-cooked-food-iLScUZafBzc)
+Фото апельсинового кексу — Sephina Cornwall (https://www.pexels.com/ru-ru/@sephina-cornwall-759251776/) — (https://www.pexels.com/ru-ru/photo/31347993/)
 
 Фото на сторінках з рецептами:
 

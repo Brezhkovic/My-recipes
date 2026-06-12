@@ -12,6 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: #FAF6F0;
 }
 
 .hero {
@@ -114,6 +115,7 @@ body {
     background-color: #2E2520;
     margin: 0;
     padding: 15px;
+    margin-top: auto;
 }
 
 .container-footer p {
@@ -146,6 +148,7 @@ body {
     color: #FDFBF7;
     font-family: 'Cormorant Garamond', Georgia, serif;
     padding: 10px 40px;
+    
 }
 
 .my_recipe a {
@@ -205,6 +208,7 @@ body {
 
 .ingr_cooking {
     background-color: #FAF6F0;
+    
 }
 .ingr_cooking_container {
     width: 100%;

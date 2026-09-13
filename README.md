@@ -30,6 +30,7 @@ Favicon — https://www.flaticon.com/free-icon/baking_1973791?term=cooking&page=
 Фото яблучного пирога — Diliara Garifullina (https://unsplash.com/@dilja96) — (https://unsplash.com/photos/plate-of-cooked-food-iLScUZafBzc)
 Фото апельсинового кексу — Sephina Cornwall (https://www.pexels.com/ru-ru/@sephina-cornwall-759251776/) — (https://www.pexels.com/ru-ru/photo/31347993/)
 Фото тертого пирога із сиром — Merve (https://www.pexels.com/@merve-205352359/) — (https://www.pexels.com/photo/close-up-of-cakes-15306933/)
+Фото сливового пирога — Elena Leya (https://unsplash.com/@foodistika) — (https://unsplash.com/photos/a-piece-of-pie-on-a-plate-next-to-a-basket-of-blueberries-YiQRZIovcM8)
 
 Фото на сторінках з рецептами:
 
@@ -41,3 +42,4 @@ Favicon — https://www.flaticon.com/free-icon/baking_1973791?term=cooking&page=
 Апельсиновий кекс — Esraa Abuhashem (https://www.pexels.com/ru-ru/@esraa-abuhashem-259736/) — (https://www.pexels.com/ru-ru/photo/10106887/)
 Рис — AHMED AQEELY (https://www.pexels.com/@jx588/) — (https://www.pexels.com/photo/14518996/)
 Тертий приіг із сиром — solod_sha Content creator (https://www.pexels.com/@solodsha/) — (https://www.pexels.com/photo/pie-decorated-with-different-berries-9008662/)
+Сливовий пиріг — Uliana Kopanytsia (https://unsplash.com/@ulian_ka) — (https://unsplash.com/photos/tray-of-pie-beside-cloth-sOI7Yd_wAWw)
